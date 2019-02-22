@@ -1,4 +1,4 @@
-** Занимаемся погромирование высоконагруженных приложений на Turboooooooooooooooooooo Pascal **
+Занимаемся погромирование высоконагруженных приложений на Turboooooooooooooooooooo Pascal 
 :open_mouth:
 
 # Сотрудники:
@@ -21,4 +21,6 @@
 * Коваленко Александр
 * Бережной Артем
 * Попов Иван
+
+Наш сайт: [https://arioshaman.github.io/](https://arioshaman.github.io/)
 
