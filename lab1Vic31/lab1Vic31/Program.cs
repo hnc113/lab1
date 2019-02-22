@@ -14,6 +14,7 @@ namespace lab1Vic31
             Console.WriteLine("Мурсалимов А.Т.");
             Console.WriteLine("Семенов И.А.");
             Console.WriteLine("Коваленко Александр Александрович");
+            Console.WriteLine("Луценко В.Д.");
 
         }
     }
