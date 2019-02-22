@@ -10,6 +10,7 @@ namespace lab1Vic31
             Console.WriteLine("Разработкой занимались:");
             
             Console.WriteLine("Мурсалимов А.Т.");
+            Console.WriteLine("Семенов И.А.");
         }
     }
 }
