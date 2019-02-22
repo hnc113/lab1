@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace lab1Vic31
 {
@@ -8,13 +8,17 @@ namespace lab1Vic31
         {
             Console.WriteLine("Тестовая строка");
             Console.WriteLine("Разработкой занимались:");
-
-
-            Console.WriteLine("Bulakhov A.V.");
+            
             Console.WriteLine("Мурсалимов А.Т.");
             Console.WriteLine("Семенов И.А.");
-            Console.WriteLine("Коваленко Александр Александрович");
-
+            Console.WriteLine("Абарин В.В.");
+            
+            Console.WriteLine("Документацией занимались: ");
+            Console.WriteLine("Икаев А.С.");
+            Console.WriteLine("Кравченко В.Д.");
+            Console.WriteLine("Касимов И.А.");
+            Console.WriteLine("Белов И.О.");
+            Console.WriteLine("Ворожев Я.А.");
         }
     }
 }
