@@ -23,6 +23,13 @@ namespace lab1Vic31
             Console.WriteLine("Касимов И.А.");
             Console.WriteLine("Белов И.О.");
             Console.WriteLine("Ворожев Я.А.");
+            
+            Console.WriteLine("Web-разроботкой занимались: ");
+            Console.WriteLine("Игнатенко В.A.");
+            Console.WriteLine("Рамазанов М.Р.");
+            Console.WriteLine("Луценко В.Д.");
+            Console.WriteLine("Саввин А.С.");
+            Console.WriteLine("Матвеев Д.В.");
         }
     }
 }
