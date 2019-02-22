@@ -30,6 +30,7 @@ namespace lab1Vic31
             Console.WriteLine("Луценко В.Д.");
             Console.WriteLine("Саввин А.С.");
             Console.WriteLine("Матвеев Д.В.");
+            
         }
     }
 }
