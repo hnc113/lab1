@@ -1,0 +1,6 @@
+C:\Users\mrily\Desktop\Учеба\3 год 2 полугодие\Межплатформенное программирование\lab1\lab1Vic31\lab1Vic31\bin\Debug\lab1Vic31.exe.config
+C:\Users\mrily\Desktop\Учеба\3 год 2 полугодие\Межплатформенное программирование\lab1\lab1Vic31\lab1Vic31\bin\Debug\lab1Vic31.exe
+C:\Users\mrily\Desktop\Учеба\3 год 2 полугодие\Межплатформенное программирование\lab1\lab1Vic31\lab1Vic31\bin\Debug\lab1Vic31.pdb
+C:\Users\mrily\Desktop\Учеба\3 год 2 полугодие\Межплатформенное программирование\lab1\lab1Vic31\lab1Vic31\obj\Debug\lab1Vic31.csprojResolveAssemblyReference.cache
+C:\Users\mrily\Desktop\Учеба\3 год 2 полугодие\Межплатформенное программирование\lab1\lab1Vic31\lab1Vic31\obj\Debug\lab1Vic31.exe
+C:\Users\mrily\Desktop\Учеба\3 год 2 полугодие\Межплатформенное программирование\lab1\lab1Vic31\lab1Vic31\obj\Debug\lab1Vic31.pdb
