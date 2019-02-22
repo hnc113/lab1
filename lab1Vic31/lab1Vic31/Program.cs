@@ -8,8 +8,7 @@ namespace lab1Vic31
         {
             Console.WriteLine("Тестовая строка");
             Console.WriteLine("Разработкой занимались:");
-            
-            Console.WriteLine("Мурсалимов А.Т.");
+            Console.WriteLine("Коваленко Александр Александрович");
         }
     }
 }
